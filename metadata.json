@@ -1,0 +1,8 @@
+{
+  "name": "ABT Environmental - Asbestos, Lead & Mould Abatement",
+  "description": "Ontario's trusted certified environmental abatement specialists. Safe, compliant asbestos removal, lead abatement, and mould remediation across Ontario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

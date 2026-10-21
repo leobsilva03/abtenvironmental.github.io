@@ -4,8 +4,6 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-      base: '/abtenvironmental.github.io/',
-      plugins: [react()],
   return {
     plugins: [react(), tailwindcss()],
     resolve: {
